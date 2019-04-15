@@ -1,0 +1,114 @@
+
+--****Result for 1 node 1 core (Time Taken to run bigTwitter 184.69sec)****--
+[samir@spartan-login2 Cloud_Computing]$ cat slurm-8138566.out
+C2 : 139778
+B2 : 78046
+C3 : 52422
+B3 : 26176
+C4 : 19397
+B1 : 16267
+D4 : 14403
+D3 : 13220
+C1 : 8333
+B4 : 5375
+A3 : 4984
+A2 : 4121
+C5 : 4016
+D5 : 3153
+A1 : 2522
+A4 : 305
+None : 0
+A4 [('auspol', 7), ('qldvotes', 6), ('lnp', 6), ('libspill', 5), ('grassfire', 3)]
+B3 [('incident', 216), ('melbourne', 210), ('structurefire', 166), ('firealarm', 150), ('nonstructurefire', 149)]
+B4 [('melbourne', 56), ('nonstructurefire', 53), ('incident', 49), ('structurefire', 44), ('fire', 30)]
+B2 [('melbourne', 989), ('auspol', 354), ('incident', 306), ('firealarm', 228), ('nonstructurefire', 222)]
+D4 [('nowplaying', 1730), ('karishmatannacraze', 83), ('victraffic', 73), ('noblepark', 69), ('structurefire', 68)]
+A1 [('bbau', 15), ('melbourne', 14), ('tattoo', 14), ('worldjudo2014', 11), ('vobis', 11)]
+C4 [('auspol', 279), ('incident', 187), ('structurefire', 169), ('savedallas', 166), ('victraffic', 137)]
+D3 [('melbourne', 96), ('incident', 64), ('beach', 64), ('victraffic', 61), ('structurefire', 60)]
+C3 [('melbourne', 589), ('incident', 310), ('victraffic', 267), ('firealarm', 222), ('structurefire', 208)]
+A3 [('raw', 39), ('structurefire', 38), ('nonstructurefire', 29), ('saveconstantine', 26), ('epping', 19)]
+C5 [('melbourne', 58), ('victraffic', 30), ('1000steps', 18), ('australia', 18), ('photo', 17)]
+A2 [('krazykristmas', 177), ('nonstructurefire', 70), ('structurefire', 67), ('rcl1milliongiveaway', 59), ('egsholidaygiveaway', 57)]
+C1 [('incident', 106), ('structurefire', 91), ('camto4mill', 73), ('christmasfollowparty', 62), ('melbourne', 61)]
+C2 [('melbourne', 12540), ('job', 1965), ('australia', 1687), ('jobs', 1263), ('hiring', 840)]
+D5 [('lost', 30), ('cat', 28), ('somebodytocon', 27), ('melbourne', 25), ('findjasper', 23)]
+B1 [('melbourne', 215), ('structurefire', 129), ('nonstructurefire', 121), ('incident', 110), ('vote5sos', 106)]
+184.69067220087163
+
+----------------------------------******************************---------------------------------------------------------------
+--****Result for 1 node 8 core (Time Taken to run bigTwitter 58.66sec)****--
+[samir@spartan-login2 Cloud_Computing]$ cat slurm-8138645.out
+C2 : 139860
+B2 : 77694
+C3 : 52108
+B3 : 25998
+C4 : 19580
+B1 : 16256
+D4 : 14759
+D3 : 13400
+C1 : 8232
+B4 : 5435
+A3 : 4975
+A2 : 4216
+C5 : 4200
+D5 : 3161
+A1 : 2424
+A4 : 302
+None : 0
+A1 [('tattooist', 16), ('tattoo', 16), ('me', 2), ('photo', 2), ('melbourne', 2)]
+B4 [('melbourne', 72), ('structurefire', 56), ('nonstructurefire', 56), ('incident', 48), ('vote5sos', 30)]
+B3 [('melbourne', 226), ('incident', 216), ('structurefire', 168), ('nonstructurefire', 168), ('firealarm', 144)]
+A4 [('countdown', 16), ('igers', 4), ('vscocam', 4), ('imstickingwith', 4), ('vsco', 4)]
+C5 [('melbourne', 56), ('victraffic', 56), ('gradientblue', 18), ('mtdandenong', 15), ('notbeachroad', 15)]
+C1 [('incident', 104), ('structurefire', 96), ('christmasfollowparty', 80), ('askbeau', 63), ('camto4mill', 45)]
+B2 [('melbourne', 902), ('incident', 336), ('auspol', 320), ('structurefire', 232), ('nonstructurefire', 232)]
+D5 [('melbourne', 32), ('megsdeangelisgiveaway', 32), ('endorphins', 32), ('endomondo', 32), ('photo', 18)]
+C3 [('melbourne', 608), ('incident', 360), ('victraffic', 328), ('firealarm', 224), ('australia', 88)]
+A2 [('krazykristmas', 184), ('nonstructurefire', 72), ('structurefire', 72), ('egsholidaygiveaway', 56), ('rescue', 25)]
+B1 [('melbourne', 184), ('structurefire', 128), ('incident', 120), ('nonstructurefire', 88), ('australia', 40)]
+D3 [('melbourne', 112), ('beach', 112), ('incident', 104), ('victraffic', 64), ('thebachelorau', 42)]
+A3 [('raw', 56), ('structurefire', 32), ('saveconstantine', 24), ('vicfires', 15), ('other', 12)]
+C2 [('melbourne', 12816), ('job', 1984), ('australia', 1592), ('jobs', 1224), ('hiring', 864)]
+C4 [('auspol', 256), ('incident', 224), ('savedallas', 184), ('structurefire', 184), ('victraffic', 168)]
+D4 [('nowplaying', 2032), ('karishmatannacraze', 96), ('structurefire', 88), ('noblepark', 88), ('other', 80)]
+58.66571604972705
+
+----------------------------------******************************---------------------------------------------------------------
+--****Result for 2 node 8 core (Time Taken to run bigTwitter on 96.68 sec)****--
+[samir@spartan-login2 Cloud_Computing]$ cat slurm-8138843.out
+C2 : 139875
+B2 : 77672
+C3 : 52105
+B3 : 26010
+C4 : 19581
+B1 : 16256
+D4 : 14753
+D3 : 13400
+C1 : 8232
+B4 : 5438
+A3 : 4970
+A2 : 4218
+C5 : 4200
+D5 : 3167
+A1 : 2424
+A4 : 299
+None : 0
+C3 [('melbourne', 608), ('incident', 360), ('victraffic', 328), ('firealarm', 224), ('structurefire', 110)]
+B2 [('melbourne', 900), ('incident', 336), ('auspol', 320), ('structurefire', 232), ('nonstructurefire', 232)]
+B3 [('melbourne', 228), ('incident', 216), ('structurefire', 168), ('nonstructurefire', 168), ('firealarm', 144)]
+C5 [('victraffic', 56), ('melbourne', 56), ('australia', 18), ('gradientblue', 15), ('mtdandenong', 15)]
+C1 [('incident', 104), ('structurefire', 96), ('christmasfollowparty', 80), ('askbeau', 63), ('camto4mill', 45)]
+C2 [('melbourne', 12816), ('job', 1984), ('australia', 1592), ('jobs', 1224), ('hiring', 864)]
+B1 [('melbourne', 184), ('structurefire', 128), ('incident', 120), ('nonstructurefire', 88), ('travel', 50)]
+B4 [('melbourne', 72), ('structurefire', 56), ('nonstructurefire', 56), ('incident', 48), ('vote5sos', 25)]
+D4 [('nowplaying', 2032), ('karishmatannacraze', 96), ('noblepark', 88), ('structurefire', 88), ('other', 80)]
+A3 [('raw', 56), ('structurefire', 32), ('vicfires', 24), ('saveconstantine', 18), ('other', 15)]
+D3 [('melbourne', 112), ('beach', 112), ('incident', 104), ('victraffic', 64), ('structurefire', 28)]
+C4 [('auspol', 256), ('incident', 224), ('structurefire', 184), ('savedallas', 184), ('victraffic', 168)]
+A2 [('krazykristmas', 184), ('structurefire', 72), ('nonstructurefire', 72), ('egsholidaygiveaway', 56), ('rcl1milliongiveaway', 20)]
+A1 [('tattoo', 16), ('tattooist', 16), ('waylan', 2), ('sydenysiege', 2), ('mma', 2)]
+A4 [('countdown', 16), ('imstickingwith', 6), ('vscocam', 4), ('igersmelbourne', 3), ('igersdaily', 3)]
+D5 [('melbourne', 32), ('endorphins', 32), ('megsdeangelisgiveaway', 32), ('endomondo', 32), ('victraffic', 9)]
+97.86187143111601
+96.67690122779459
