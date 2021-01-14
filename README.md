@@ -5,6 +5,7 @@ Twitter Geoprocessing
 ### To Run the file:
 #### Write .sh script and change node and cores accordingly
 > #!/bin/bash
+
 #SBATCH --time=00:05:00
 #SBATCH --nodes=2
 #SBATCH --ntasks=8
