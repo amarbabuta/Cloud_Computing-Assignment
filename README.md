@@ -26,5 +26,5 @@ Twitter Geoprocessing
 
 > #mpjrun.sh -np 4 HelloWorld 
 
-
+##### Submit the slurm job on SPARTAN
 ##### Returns total number of tweets in the grid and top 5 hashtags.
